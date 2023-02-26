@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import datetime as dt
 
-token = '6280074542:AAGhSJI8P6GzM-Vp8tM1jjfyLmkMJXFQ91E'
+token = 'enter a tocken here :)'
 bot = Bot(token=token)
 dp = Dispatcher(bot=bot)
 
